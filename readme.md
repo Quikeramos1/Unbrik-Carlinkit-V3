@@ -2,7 +2,7 @@
 
 # Unbrick o revivir el dispositivo Carlinkit V3 tras actualización OTA fallida
 
-El objetivo de este tutorial es ayudar al usuario a recuperar su dispositivo Carlinkit V3 brikeado.
+El objetivo de este tutorial es ayudar al usuario a recuperar su dispositivo Carlinkit V3 brikeado. He obtenido información, actualizaciones e imagenes para flasear de [Ludwig-v](https://github.com/ludwig-v/wireless-carplay-dongle-reverse-engineering) y de [Esta página Web](https://placaschinas.com/como/asprogrammer-flashear-bios-con-programador/)
 
 Descargo de Responsabilidad:
 

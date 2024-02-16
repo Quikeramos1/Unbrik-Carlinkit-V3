@@ -1,6 +1,6 @@
 # Unbrick or revive Carlinkit V3 device after failed OTA update
 
-The aim of this tutorial is to assist the user in recovering their bricked Carlinkit V3 device.
+The aim of this tutorial is to assist the user in recovering their bricked Carlinkit V3 device. I have obtained information, updates and images to flash from [Ludwig-v](https://github.com/ludwig-v/wireless-carplay-dongle-reverse-engineering) and [this  Website](https://placaschinas.com/como/asprogrammer-flashear-bios-con-programador/)
 
 Disclaimer:
 
